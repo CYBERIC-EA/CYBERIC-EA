@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/CYBERIC-EA">
-    <img src="" alt="Erioluwa Akande" /></a>
+   #<p>  ERIOLUWA AKANDE</p>
 </p>
+  </br>
 <!-- Social badges section -->
 
 <p align="center">
