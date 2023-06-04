@@ -9,7 +9,7 @@
   <a href="https://github.com/CYBERIC-EA?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CYBERIC-EA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/erioluwa-akande-640bb4221/">
-   <img alt="LinkedIn" width="26px" height='50px' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+   <img alt="LinkedIn" width="70px" height='40px' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
     
 </p>
