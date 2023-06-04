@@ -9,7 +9,7 @@
   <a href="https://github.com/CYBERIC-EA?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CYBERIC-EA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/erioluwa-akande-640bb4221/">
-   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+   <img align="left" alt="LinkedIn" width="26px" height='6px' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
     
 </p>
@@ -34,4 +34,6 @@
 <img align="left" alt="MATLAB" width="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  style="padding-right:10px;"/>
+          
 
