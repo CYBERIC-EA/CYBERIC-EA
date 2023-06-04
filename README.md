@@ -1,14 +1,8 @@
 
-
-
-
-
-
 <p align="center">
-  <a href="https://github.com/CYBERIC-EA">
-   #<p>  ERIOLUWA AKANDE</p>
+  ERIOLUWA AKANDE
 </p>
-  </br>
+ </br>
 <!-- Social badges section -->
 
 <p align="center">
