@@ -18,7 +18,7 @@
 
 - Currently pursuing a BSc. in Computer Science.
 - Aspiring to be a Data Scientist
-- Currently Working on Reccomendation Systems using Cosine Similarity, Data Visualization, Wakeword Detection
+- Currently Working on Recomendation Systems using Cosine Similarity, Data Visualization, Wakeword Detection
 - 💡 Open to collaborating on projects and innovative ideas.
 
 
