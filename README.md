@@ -17,7 +17,7 @@
 
 
 - Studied Computer Science at the University of Abuja, Nigeria
-- Aspiring to be a Data Scientist
+- Conducting Research on AI and Neural Networks
 - Currently Working on Recomendation Systems using Cosine Similarity, Data Visualization, Wakeword Detection
 - 💡 Open to collaborating on projects and innovative ideas.
 
