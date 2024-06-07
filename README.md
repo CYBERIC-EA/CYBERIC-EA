@@ -16,7 +16,7 @@
 <br/> 
 
 
-- Currently pursuing a BSc. in Computer Science.
+- Studied Computer Science at the University of Abuja, Nigeria
 - Aspiring to be a Data Scientist
 - Currently Working on Recomendation Systems using Cosine Similarity, Data Visualization, Wakeword Detection
 - 💡 Open to collaborating on projects and innovative ideas.
