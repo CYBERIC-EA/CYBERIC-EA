@@ -38,5 +38,9 @@
 
 
 <br/>
+<div align="center">
 <h1 align="center"><b> Contributions 💻 </b></h1>
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=CYBERIC-EA&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="CYBERIC-EA"/> </p>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERIC-EA&layout=compact&&langs_count=8"/>
+
+</div>
